@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SQLiteApplication</string>
+    <string name="remember">remember the password</string>
+    <string name="login_successful">Login successful!</string>
+    <string name="update_database">update database</string>
+    <string name="add_book">add book</string>
+    <string name="book_name">BookName:</string>
+    <string name="book_author">Author:</string>
+    <string name="book_price">Price:</string>
+    <string name="book_page">Page:</string>
+    <string name="category_id">ID:</string>
+    <string name="query">query</string>
+</resources>

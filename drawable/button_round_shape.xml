@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="ExtraText">
+    <!-- android:shape="oval"设置为椭圆形 -->
+    <corners android:radius="20dp" />   <!-- 设置圆角弧度 -->
+    <solid android:color="#00CD66" />   <!-- 设置背景颜色 -->
+    <size
+        android:width="40dp"
+        android:height="40dp" />
+    <stroke
+        android:width="3dp"
+        android:color="#4169E1" />
+</shape>
